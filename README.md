@@ -1,3 +1,3 @@
-- 👋 Hi, My name is unify some may call me UnifyTweaks but it doesn't fucking matter. I'm A Experince PC Tweaker / PC Enthiuast Aiming For High Perfomance While Maintaing Low Latency (Low Input Lag) And Stable / High Frame Rates ( FPS )
-- No, IM not your basic twitter tweaker who runs some registry files and calls it a day yeah no not me. I take pride in what i do and strive to become the best (which i never will be) but its always good to have that mindset
+- 👋 Hi, Unify is my name. Some may refer to me as UnifyTweaks, but it doesn't matter. I'd describe myself as an experienced PC tweaker / PC enthusiast whom aims for high performance while maintaining low latency (low input lag) and stable / high frame rates ( FPS )
+- I'm definitely not your typical Twitter tweaker who runs a few registry files and calls it a day. I strive to be the best at what I do and take pride in it, but it's always beneficial to have that attitude.
 - I will be posting alot of useful information / guides / tweaks in this blog and alot of videos, tutorials, and Q?A's on PC Tweaking / PC Help IN General pimps.
